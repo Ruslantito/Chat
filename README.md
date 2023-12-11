@@ -9,6 +9,7 @@ In this chat, user can create or choose an existing chatroom.
 Each chatroom can have several users exchanging messages.
 
 **ex00**
+
 Key domain models which both SQL tables and Java classes implemented for are:
 `User
 - User ID
