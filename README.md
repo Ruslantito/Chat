@@ -1,17 +1,12 @@
 # Chat
 Implementation of key mechanisms to work with PostgreSQL DBMS via JDBC
 
-- The program developed in Java language
-- The code is written in the Google style
-
-
 In this chat, user can create or choose an existing chatroom. 
 Each chatroom can have several users exchanging messages.
 
 **ex00**
-
 Key domain models which both SQL tables and Java classes implemented for are:
-`User
+User
 - User ID
 - Login
 - Password
@@ -30,7 +25,6 @@ Message
 - Message room
 - Message text
 - Message date/time
-`
   
 
 **ex01**
